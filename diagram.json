@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Samwel Gaya",
+  "author": "Jeremy Kuria",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-breadboard-half", "id": "bb1", "top": -41.4, "left": 2.8, "attrs": {} },
