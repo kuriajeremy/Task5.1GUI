@@ -35,6 +35,8 @@ Wiring Instructions:
 
 Wokwi Simulation
 Wokwi circuit setup(Real setup is done like this too):
+
+![image alt](https://github.com/kuriajeremy/Task5.1GUI/blob/92d200deb9d7071a7a1c234a3c07d5b47d90e848/Wokwi%20sim%20Setup.png)
  
 Part 1: Testing the LEDs (Loop Version)
 
